@@ -1,0 +1,33 @@
+﻿# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Generic archives
+*.zip
+*.tar
+*.gz
+*.7z

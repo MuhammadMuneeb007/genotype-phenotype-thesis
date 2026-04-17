@@ -1,0 +1,7 @@
+﻿cff-version: 1.2.0
+title: "genotype-phenotype-thesis"
+message: "If you use this repository, please cite the thesis and associated manuscripts."
+authors:
+  - family-names: "Muneeb"
+    given-names: "Muhammad"
+repository-code: "https://github.com/your-username/genotype-phenotype-thesis"
