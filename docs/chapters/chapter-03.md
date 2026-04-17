@@ -21,9 +21,9 @@ predictive metrics, and reproducibility criteria.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view">Online View</a>
 	</div>
 </div>
 
@@ -34,9 +34,9 @@ before PRS construction.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view">Online View</a>
 	</div>
 </div>
 
@@ -47,9 +47,9 @@ on PRS performance and interpretability.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view">Online View</a>
 	</div>
 </div>
 

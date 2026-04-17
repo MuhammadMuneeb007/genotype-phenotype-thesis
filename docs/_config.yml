@@ -5,6 +5,7 @@ url: "https://muhammadmuneeb007.github.io"
 baseurl: "/genotype-phenotype-thesis"
 markdown: kramdown
 permalink: pretty
+repository_url: "https://github.com/MuhammadMuneeb007/genotype-phenotype-thesis"
 
 defaults:
   - scope:

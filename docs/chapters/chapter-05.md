@@ -9,9 +9,9 @@ permalink: /chapters/chapter-05/
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-05-translational-applications/5.1-g2dr/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-05-translational-applications/5.1-g2dr/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-05-translational-applications/5.1-g2dr/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-05-translational-applications/5.1-g2dr/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-05-translational-applications/5.1-g2dr/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-05-translational-applications/5.1-g2dr/online-view">Online View</a>
 	</div>
 </div>
 
@@ -19,9 +19,9 @@ permalink: /chapters/chapter-05/
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-05-translational-applications/5.2-annotatemissense/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-05-translational-applications/5.2-annotatemissense/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-05-translational-applications/5.2-annotatemissense/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-05-translational-applications/5.2-annotatemissense/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-05-translational-applications/5.2-annotatemissense/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-05-translational-applications/5.2-annotatemissense/online-view">Online View</a>
 	</div>
 </div>
 
@@ -29,9 +29,9 @@ permalink: /chapters/chapter-05/
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/online-view">Online View</a>
 	</div>
 </div>
 

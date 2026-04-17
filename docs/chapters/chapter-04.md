@@ -9,9 +9,9 @@ permalink: /chapters/chapter-04/
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-04-integrative-frameworks/4.1-efgpp/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-04-integrative-frameworks/4.1-efgpp/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-04-integrative-frameworks/4.1-efgpp/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/online-view">Online View</a>
 	</div>
 </div>
 
@@ -19,9 +19,9 @@ permalink: /chapters/chapter-04/
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/online-view">Online View</a>
 	</div>
 </div>
 

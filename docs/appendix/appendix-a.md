@@ -9,9 +9,9 @@ Appendix manuscript resources and supporting files.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/appendix/appendix-a-kathy-manuscript/manuscript.pdf' | relative_url }}">View PDF</a>
-		<a class="btn" href="{{ '/appendix/appendix-a-kathy-manuscript/supplementary/' | relative_url }}">Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/appendix/appendix-a-kathy-manuscript/online-view/' | relative_url }}">Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/appendix/appendix-a-kathy-manuscript/manuscript.pdf">View PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/tree/main/appendix/appendix-a-kathy-manuscript/supplementary">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/appendix/appendix-a-kathy-manuscript/online-view">Online View</a>
 	</div>
 </div>
 

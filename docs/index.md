@@ -11,7 +11,7 @@ permalink: /
 		and appendix content for transparent and reproducible thesis navigation.
 	</p>
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ '/thesis/thesis.pdf' | relative_url }}">View Thesis PDF</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/thesis/thesis.pdf">View Thesis PDF</a>
 		<a class="btn" href="{{ '/chapters/chapter-03/' | relative_url }}">Go to Chapter 3</a>
 	</div>
 </section>
