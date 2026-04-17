@@ -17,13 +17,29 @@ layout: default
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
 		</thead>
 		<tbody>
-			<tr><td>manuscript.pdf</td><td>Placeholder manuscript PDF for this section.</td></tr>
-			<tr><td>supplementary-material.pdf</td><td>Supplementary placeholder PDF document.</td></tr>
-			<tr><td>supplementary-data.xlsx</td><td>Supplementary placeholder data table (XLSX).</td></tr>
-			<tr><td>online-view/README.md</td><td>Web summary placeholder for quick online review.</td></tr>
+			<tr>
+				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.1-efgpp/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>Placeholder manuscript PDF for this section.</td>
+				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.1-efgpp/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+			</tr>
+			<tr>
+				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.1-efgpp/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>Supplementary placeholder PDF document.</td>
+				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.1-efgpp/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+			</tr>
+			<tr>
+				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>Supplementary placeholder data table (XLSX).</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+			</tr>
+			<tr>
+				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>Web summary placeholder for quick online review.</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.1-efgpp/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+			</tr>
 		</tbody>
 	</table>
 </div>
@@ -39,13 +55,29 @@ layout: default
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
 		</thead>
 		<tbody>
-			<tr><td>manuscript.pdf</td><td>Placeholder manuscript PDF for this section.</td></tr>
-			<tr><td>supplementary-material.pdf</td><td>Supplementary placeholder PDF document.</td></tr>
-			<tr><td>supplementary-data.xlsx</td><td>Supplementary placeholder data table (XLSX).</td></tr>
-			<tr><td>online-view/README.md</td><td>Web summary placeholder for quick online review.</td></tr>
+			<tr>
+				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>Placeholder manuscript PDF for this section.</td>
+				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+			</tr>
+			<tr>
+				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>Supplementary placeholder PDF document.</td>
+				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+			</tr>
+			<tr>
+				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>Supplementary placeholder data table (XLSX).</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+			</tr>
+			<tr>
+				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>Web summary placeholder for quick online review.</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+			</tr>
 		</tbody>
 	</table>
 </div>

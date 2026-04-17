@@ -223,6 +223,24 @@ a:hover {
   background: #fafcfd;
 }
 
+.table-action {
+  display: inline-block;
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #1e4f79;
+  border: 1px solid #bdd0df;
+  border-radius: 5px;
+  padding: 0.22rem 0.48rem;
+  text-decoration: none;
+  background: #eef5fb;
+}
+
+.table-action:hover {
+  background: #e4eff9;
+  text-decoration: none;
+}
+
 .action-row {
   display: flex;
   flex-wrap: wrap;
