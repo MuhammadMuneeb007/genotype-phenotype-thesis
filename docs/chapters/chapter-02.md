@@ -10,35 +10,39 @@ layout: default
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
-		<a class="btn" href="{{ '/assets/downloads/2.1-opensnp-80-phenotypes-supplementary.zip' | relative_url }}" download>Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/assets/downloads/2.1-opensnp-80-phenotypes-online-view.zip' | relative_url }}" download>Download Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
+		<a class="btn" href="{{ '/assets/downloads/2.1-opensnp-80-phenotypes-supplementary.zip' | relative_url }}" download>Download All Supplementary (ZIP)</a>
+		<a class="btn btn-ghost" href="{{ '/assets/downloads/2.1-opensnp-80-phenotypes-online-view.zip' | relative_url }}" download>Download All Online-View (ZIP)</a>
 		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes">Browse Files</a>
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th><th>Download</th></tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>manuscript.pdf</td>
 				<td>Placeholder manuscript PDF for this section.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>supplementary-material.pdf</td>
 				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>supplementary-data.xlsx</td>
 				<td>Supplementary placeholder data table (XLSX).</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-02-benchmarking-genotype-to-phenotype%2F2.1-opensnp-80-phenotypes%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>online-view/README.md</td>
 				<td>Web summary placeholder for quick online review.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -48,35 +52,39 @@ layout: default
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
-		<a class="btn" href="{{ '/assets/downloads/2.2-candidate-gene-prioritization-supplementary.zip' | relative_url }}" download>Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/assets/downloads/2.2-candidate-gene-prioritization-online-view.zip' | relative_url }}" download>Download Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
+		<a class="btn" href="{{ '/assets/downloads/2.2-candidate-gene-prioritization-supplementary.zip' | relative_url }}" download>Download All Supplementary (ZIP)</a>
+		<a class="btn btn-ghost" href="{{ '/assets/downloads/2.2-candidate-gene-prioritization-online-view.zip' | relative_url }}" download>Download All Online-View (ZIP)</a>
 		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization">Browse Files</a>
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th><th>Download</th></tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>manuscript.pdf</td>
 				<td>Placeholder manuscript PDF for this section.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>supplementary-material.pdf</td>
 				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>supplementary-data.xlsx</td>
 				<td>Supplementary placeholder data table (XLSX).</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-02-benchmarking-genotype-to-phenotype%2F2.2-candidate-gene-prioritization%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>online-view/README.md</td>
 				<td>Web summary placeholder for quick online review.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 		</tbody>
 	</table>

@@ -22,35 +22,39 @@ predictive metrics, and reproducibility criteria.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
-		<a class="btn" href="{{ '/assets/downloads/3.1-prs-benchmarking-46-tools-supplementary.zip' | relative_url }}" download>Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/assets/downloads/3.1-prs-benchmarking-46-tools-online-view.zip' | relative_url }}" download>Download Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
+		<a class="btn" href="{{ '/assets/downloads/3.1-prs-benchmarking-46-tools-supplementary.zip' | relative_url }}" download>Download All Supplementary (ZIP)</a>
+		<a class="btn btn-ghost" href="{{ '/assets/downloads/3.1-prs-benchmarking-46-tools-online-view.zip' | relative_url }}" download>Download All Online-View (ZIP)</a>
 		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools">Browse Files</a>
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th><th>Download</th></tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>manuscript.pdf</td>
 				<td>Placeholder manuscript PDF for this section.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>supplementary-material.pdf</td>
 				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>supplementary-data.xlsx</td>
 				<td>Supplementary placeholder data table (XLSX).</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-03-prs-and-heritability%2F3.1-prs-benchmarking-46-tools%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>online-view/README.md</td>
 				<td>Web summary placeholder for quick online review.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -63,35 +67,39 @@ before PRS construction.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
-		<a class="btn" href="{{ '/assets/downloads/3.2-gwaspoker-supplementary.zip' | relative_url }}" download>Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/assets/downloads/3.2-gwaspoker-online-view.zip' | relative_url }}" download>Download Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
+		<a class="btn" href="{{ '/assets/downloads/3.2-gwaspoker-supplementary.zip' | relative_url }}" download>Download All Supplementary (ZIP)</a>
+		<a class="btn btn-ghost" href="{{ '/assets/downloads/3.2-gwaspoker-online-view.zip' | relative_url }}" download>Download All Online-View (ZIP)</a>
 		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker">Browse Files</a>
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th><th>Download</th></tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>manuscript.pdf</td>
 				<td>Placeholder manuscript PDF for this section.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>supplementary-material.pdf</td>
 				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>supplementary-data.xlsx</td>
 				<td>Supplementary placeholder data table (XLSX).</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-03-prs-and-heritability%2F3.2-gwaspoker%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>online-view/README.md</td>
 				<td>Web summary placeholder for quick online review.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -104,35 +112,39 @@ on PRS performance and interpretability.
 
 <div class="study-card">
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
-		<a class="btn" href="{{ '/assets/downloads/3.3-heritability-benchmarking-supplementary.zip' | relative_url }}" download>Download Supplementary Files</a>
-		<a class="btn btn-ghost" href="{{ '/assets/downloads/3.3-heritability-benchmarking-online-view.zip' | relative_url }}" download>Download Online View</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener">View PDF</a>
+		<a class="btn" href="{{ '/assets/downloads/3.3-heritability-benchmarking-supplementary.zip' | relative_url }}" download>Download All Supplementary (ZIP)</a>
+		<a class="btn btn-ghost" href="{{ '/assets/downloads/3.3-heritability-benchmarking-online-view.zip' | relative_url }}" download>Download All Online-View (ZIP)</a>
 		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking">Browse Files</a>
 	</div>
 	<table class="preview-table">
 		<thead>
-			<tr><th>File</th><th>Content Preview</th><th>View Online</th></tr>
+			<tr><th>File</th><th>Content Preview</th><th>View Online</th><th>Download</th></tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></td>
+				<td>manuscript.pdf</td>
 				<td>Placeholder manuscript PDF for this section.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">supplementary-material.pdf</a></td>
+				<td>supplementary-material.pdf</td>
 				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">supplementary-data.xlsx</a></td>
+				<td>supplementary-data.xlsx</td>
 				<td>Supplementary placeholder data table (XLSX).</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-03-prs-and-heritability%2F3.3-heritability-benchmarking%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td><a href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/README.md" target="_blank" rel="noopener">online-view/README.md</a></td>
+				<td>online-view/README.md</td>
 				<td>Web summary placeholder for quick online review.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 		</tbody>
 	</table>

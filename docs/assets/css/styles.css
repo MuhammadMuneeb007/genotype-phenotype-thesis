@@ -241,6 +241,16 @@ a:hover {
   text-decoration: none;
 }
 
+.table-action-download {
+  color: #4f3a0f;
+  border-color: #d8c48c;
+  background: #fff6e2;
+}
+
+.table-action-download:hover {
+  background: #fff0cf;
+}
+
 .action-row {
   display: flex;
   flex-wrap: wrap;
