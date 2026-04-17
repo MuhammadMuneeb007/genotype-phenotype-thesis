@@ -1,6 +1,7 @@
 ﻿---
 title: Chapter 4 - Integrative Frameworks
 permalink: /chapters/chapter-04/
+layout: default
 ---
 
 # Chapter 4: Integrative Frameworks

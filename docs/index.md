@@ -1,6 +1,7 @@
 ﻿---
 title: Genotype-Phenotype Thesis
 permalink: /
+layout: default
 ---
 
 <section class="hero">

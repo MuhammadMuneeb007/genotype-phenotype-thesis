@@ -1,6 +1,7 @@
 ﻿---
 title: Chapter 2 - Benchmarking Genotype to Phenotype
 permalink: /chapters/chapter-02/
+layout: default
 ---
 
 # Chapter 2: Benchmarking Genotype to Phenotype

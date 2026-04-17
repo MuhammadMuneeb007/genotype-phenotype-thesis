@@ -1,6 +1,7 @@
 ﻿---
 title: Chapter 5 - Translational Applications
 permalink: /chapters/chapter-05/
+layout: default
 ---
 
 # Chapter 5: Translational Applications

@@ -1,6 +1,7 @@
 ﻿---
 title: Chapter 3 - PRS and Heritability
 permalink: /chapters/chapter-03/
+layout: default
 ---
 
 # Chapter 3: PRS and Heritability

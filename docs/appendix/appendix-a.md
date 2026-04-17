@@ -1,6 +1,7 @@
 ﻿---
 title: Appendix A
 permalink: /appendix/appendix-a/
+layout: default
 ---
 
 # Appendix A: Kathy Manuscript
