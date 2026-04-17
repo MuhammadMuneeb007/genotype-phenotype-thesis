@@ -1,13 +1,41 @@
-﻿# Chapter 5: Translational Applications
+﻿---
+title: Chapter 5 - Translational Applications
+permalink: /chapters/chapter-05/
+---
 
-## Sections
+# Chapter 5: Translational Applications
 
-- 5.1 G2DR
-- 5.2 AnnotateMissense
-- 5.3 PhenotypeToGeneDownloaderR
+## 5.1 G2DR
 
-## Placeholder Links
+<div class="study-card">
+	<div class="action-row">
+		<a class="btn btn-primary" href="{{ '/chapters/chapter-05-translational-applications/5.1-g2dr/manuscript.pdf' | relative_url }}">View PDF</a>
+		<a class="btn" href="{{ '/chapters/chapter-05-translational-applications/5.1-g2dr/supplementary/' | relative_url }}">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ '/chapters/chapter-05-translational-applications/5.1-g2dr/online-view/' | relative_url }}">Online View</a>
+	</div>
+</div>
 
-- 5.1 manuscript: [manuscript.pdf](../../chapters/chapter-05-translational-applications/5.1-g2dr/manuscript.pdf)
-- 5.2 manuscript: [manuscript.pdf](../../chapters/chapter-05-translational-applications/5.2-annotatemissense/manuscript.pdf)
-- 5.3 manuscript: [manuscript.pdf](../../chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/manuscript.pdf)
+## 5.2 AnnotateMissense
+
+<div class="study-card">
+	<div class="action-row">
+		<a class="btn btn-primary" href="{{ '/chapters/chapter-05-translational-applications/5.2-annotatemissense/manuscript.pdf' | relative_url }}">View PDF</a>
+		<a class="btn" href="{{ '/chapters/chapter-05-translational-applications/5.2-annotatemissense/supplementary/' | relative_url }}">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ '/chapters/chapter-05-translational-applications/5.2-annotatemissense/online-view/' | relative_url }}">Online View</a>
+	</div>
+</div>
+
+## 5.3 PhenotypeToGeneDownloaderR
+
+<div class="study-card">
+	<div class="action-row">
+		<a class="btn btn-primary" href="{{ '/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/manuscript.pdf' | relative_url }}">View PDF</a>
+		<a class="btn" href="{{ '/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/supplementary/' | relative_url }}">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ '/chapters/chapter-05-translational-applications/5.3-phenotypetogenedownloaderr/online-view/' | relative_url }}">Online View</a>
+	</div>
+</div>
+
+<div class="action-row">
+	<a class="btn" href="{{ '/chapters/chapter-04/' | relative_url }}">Previous: Chapter 4</a>
+	<a class="btn" href="{{ '/appendix/appendix-a/' | relative_url }}">Go to Appendix A</a>
+</div>

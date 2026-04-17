@@ -1,32 +1,60 @@
-﻿# Chapter 3: PRS and Heritability
+﻿---
+title: Chapter 3 - PRS and Heritability
+permalink: /chapters/chapter-03/
+---
 
-This chapter is the core quantitative benchmarking component of the thesis, consolidating PRS performance analyses, phenotype-guided GWAS triage strategy, and heritability estimation benchmarking.
+# Chapter 3: PRS and Heritability
+
+This chapter is the quantitative core of the thesis. It consolidates PRS tool benchmarking,
+phenotype-guided GWAS triage, and heritability estimation strategy comparisons.
+
+<div class="action-row">
+	<a class="btn" href="{{ '/chapters/chapter-02/' | relative_url }}">Previous: Chapter 2</a>
+	<a class="btn" href="{{ '/chapters/chapter-04/' | relative_url }}">Next: Chapter 4</a>
+	<a class="btn btn-ghost" href="{{ '/' | relative_url }}">Back to Home</a>
+</div>
 
 ## 3.1 PRS Benchmarking (46 Tools)
 
-Comparative evaluation of 46 PRS tools across harmonized data preparation, modeling assumptions, and predictive performance criteria.
+Comparative evaluation of 46 PRS tools across standardized data harmonization, model assumptions,
+predictive metrics, and reproducibility criteria.
 
-- Manuscript: [3.1 manuscript.pdf](../../chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf)
-- Supplementary files: [3.1 supplementary](../../chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/)
-- Online view: [3.1 online-view](../../chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/)
+<div class="study-card">
+	<div class="action-row">
+		<a class="btn btn-primary" href="{{ '/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf' | relative_url }}">View PDF</a>
+		<a class="btn" href="{{ '/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/' | relative_url }}">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ '/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/' | relative_url }}">Online View</a>
+	</div>
+</div>
 
 ## 3.2 GWASPoker
 
-A phenotype-guided pre-download triage framework for selecting the most relevant GWAS summary statistics in PRS workflows.
+Phenotype-guided pre-download triage workflow for selecting the most relevant GWAS summary statistics
+before PRS construction.
 
-- Manuscript: [3.2 manuscript.pdf](../../chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf)
-- Supplementary files: [3.2 supplementary](../../chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/)
-- Online view: [3.2 online-view](../../chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/)
+<div class="study-card">
+	<div class="action-row">
+		<a class="btn btn-primary" href="{{ '/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf' | relative_url }}">View PDF</a>
+		<a class="btn" href="{{ '/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/' | relative_url }}">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ '/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/' | relative_url }}">Online View</a>
+	</div>
+</div>
 
 ## 3.3 Heritability Benchmarking
 
-Systematic evaluation of heritability estimation strategies across multiple configurations and downstream effects on PRS model quality.
+Systematic assessment of heritability estimation strategies and their downstream effects
+on PRS performance and interpretability.
 
-- Manuscript: [3.3 manuscript.pdf](../../chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf)
-- Supplementary files: [3.3 supplementary](../../chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/)
-- Online view: [3.3 online-view](../../chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/)
+<div class="study-card">
+	<div class="action-row">
+		<a class="btn btn-primary" href="{{ '/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf' | relative_url }}">View PDF</a>
+		<a class="btn" href="{{ '/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/' | relative_url }}">Download Supplementary Files</a>
+		<a class="btn btn-ghost" href="{{ '/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/' | relative_url }}">Online View</a>
+	</div>
+</div>
 
-## Cross-links
+## Related Links
 
-- [Back to home](../index.md)
-- [Go to Chapter 4](chapter-04.md)
+- [Chapter 2 page]({{ '/chapters/chapter-02/' | relative_url }})
+- [Chapter 4 page]({{ '/chapters/chapter-04/' | relative_url }})
+- [Appendix A page]({{ '/appendix/appendix-a/' | relative_url }})
