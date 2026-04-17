@@ -1,0 +1,1 @@
+# Supplementary Placeholder Files\n\nThis folder currently contains temporary files for chapters/chapter-04-integrative-frameworks/4.2-integrating-all-tools-efgpp/supplementary.\n\nReplace these with final supplementary datasets and tables.\n

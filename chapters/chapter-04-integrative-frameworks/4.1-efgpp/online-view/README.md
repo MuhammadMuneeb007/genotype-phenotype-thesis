@@ -1,0 +1,1 @@
+# Online View Placeholder\n\nTemporary online-view placeholder for chapters/chapter-04-integrative-frameworks/4.1-efgpp/online-view.\nAdd web-friendly summaries, figure previews, or quick links here.\n

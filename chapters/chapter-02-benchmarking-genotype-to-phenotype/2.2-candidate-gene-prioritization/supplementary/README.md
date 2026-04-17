@@ -1,0 +1,1 @@
+# Supplementary Placeholder Files\n\nThis folder currently contains temporary files for chapters/chapter-02-benchmarking-genotype-to-phenotype/2.2-candidate-gene-prioritization/supplementary.\n\nReplace these with final supplementary datasets and tables.\n

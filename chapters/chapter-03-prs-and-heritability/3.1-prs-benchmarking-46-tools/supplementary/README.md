@@ -1,0 +1,1 @@
+# Supplementary Placeholder Files\n\nThis folder currently contains temporary files for chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary.\n\nReplace these with final supplementary datasets and tables.\n

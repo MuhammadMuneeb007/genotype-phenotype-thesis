@@ -1,0 +1,1 @@
+# Supplementary Placeholder Files\n\nThis folder currently contains temporary files for chapters/chapter-05-translational-applications/5.1-g2dr/supplementary.\n\nReplace these with final supplementary datasets and tables.\n
