@@ -2,6 +2,18 @@
 
 This repository hosts the full academic structure for the PhD thesis by Muhammad Muneeb, including thesis PDF storage, chapter-wise manuscripts, supplementary material placeholders, appendix content, shared resources, and a GitHub Pages website.
 
+## Thesis Overview
+
+This thesis investigates genotype-phenotype relationships through systematic benchmarking of PRS methods, heritability analyses, integrative frameworks, and translational genetics workflows with a focus on clinical utility.
+
+## Repository Information
+
+- Repository owner: MuhammadMuneeb007
+- Repository name: genotype-phenotype-thesis
+- Repository URL: https://github.com/MuhammadMuneeb007/genotype-phenotype-thesis
+- GitHub Pages URL: https://muhammadmuneeb007.github.io/genotype-phenotype-thesis/
+- Maintainer: Muhammad Muneeb
+
 ## Repository Structure Overview
 
 - `thesis/`: final thesis PDF storage

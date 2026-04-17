@@ -39,7 +39,7 @@ layout: default
 		<h3><a href="{{ '/chapters/chapter-03/' | relative_url }}">Chapter 3: PRS and Heritability</a></h3>
 		<p>Benchmarking of 46 PRS tools, GWASPoker triage strategy, and heritability analyses.</p>
 		<div class="action-row">
-			<a class="btn btn-primary" href="{{ '/chapters/chapter-03/' | relative_url }}">Open Core Chapter</a>
+			<a class="btn btn-primary" href="{{ '/chapters/chapter-03/' | relative_url }}">Open Thesis Chapter</a>
 		</div>
 	</article>
 	<article class="study-card">

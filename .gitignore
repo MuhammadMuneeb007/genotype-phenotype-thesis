@@ -31,3 +31,6 @@ venv/
 *.tar
 *.gz
 *.7z
+
+# Keep website download bundles tracked
+!docs/assets/downloads/*.zip

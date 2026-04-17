@@ -194,6 +194,35 @@ a:hover {
   margin-bottom: 0;
 }
 
+.preview-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.85rem;
+  font-size: 0.95rem;
+}
+
+.preview-table th,
+.preview-table td {
+  border: 1px solid #d6dce2;
+  padding: 0.48rem 0.56rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.preview-table th {
+  font-family: "Manrope", "Segoe UI", sans-serif;
+  font-size: 0.84rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #2a4257;
+  background: #eef2f6;
+}
+
+.preview-table td {
+  color: #3f5262;
+  background: #fafcfd;
+}
+
 .action-row {
   display: flex;
   flex-wrap: wrap;
@@ -270,5 +299,35 @@ a:hover {
   .btn {
     width: 100%;
     text-align: center;
+  }
+
+  .preview-table,
+  .preview-table thead,
+  .preview-table tbody,
+  .preview-table tr,
+  .preview-table th,
+  .preview-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .preview-table thead {
+    display: none;
+  }
+
+  .preview-table tr {
+    margin-bottom: 0.65rem;
+    border: 1px solid #d6dce2;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .preview-table td {
+    border: none;
+    border-bottom: 1px solid #e2e7ec;
+  }
+
+  .preview-table td:last-child {
+    border-bottom: none;
   }
 }

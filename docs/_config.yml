@@ -6,6 +6,7 @@ baseurl: "/genotype-phenotype-thesis"
 markdown: kramdown
 permalink: pretty
 repository_url: "https://github.com/MuhammadMuneeb007/genotype-phenotype-thesis"
+repository_raw_url: "https://raw.githubusercontent.com/MuhammadMuneeb007/genotype-phenotype-thesis/main"
 
 defaults:
   - scope:
