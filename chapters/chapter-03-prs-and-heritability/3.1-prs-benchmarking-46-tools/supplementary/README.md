@@ -1,13 +1,7 @@
 # Supplementary Materials
 
-This directory contains temporary, viewable supplementary placeholders for this manuscript section.
+This directory contains supplementary files for Chapter 3 Manuscript 1.
 
-## Included Temporary Files
-- `supplementary-material.pdf`: placeholder supplementary document.
-- `supplementary-data.xlsx`: placeholder supplementary data table.
+## Included Files
 
-## Folder Scope
-- Section path: `chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary`
-
-## Before Final Submission
-Replace both placeholder files with the final supplementary PDF and XLSX deliverables.
+- `Supplementary_File_S1_Chapter3_Manuscript1.xlsx`: Supplementary File S1 workbook for Chapter 3 Manuscript 1.
