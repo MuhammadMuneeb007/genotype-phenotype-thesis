@@ -9,9 +9,9 @@ This chapter contains thesis studies focused on benchmarking genotype-to-phenoty
 Benchmarking genotype-to-phenotype associations across 80 phenotypes in openSNP.
 
 - Section folder: [2.1-opensnp-80-phenotypes](2.1-opensnp-80-phenotypes/)
-- Manuscript PDF: [2.1-opensnp-80-phenotypes/manuscript.pdf](2.1-opensnp-80-phenotypes/manuscript.pdf)
-- Graphical abstract: [2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg](2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg)
-- Supplementary workbook: [2.1-opensnp-80-phenotypes/supplementary/supplementary-material.xlsx](2.1-opensnp-80-phenotypes/supplementary/supplementary-material.xlsx)
+- Manuscript PDF: [2.1-opensnp-80-phenotypes/Manuscript_Chapter2_Manuscript1.pdf](2.1-opensnp-80-phenotypes/Manuscript_Chapter2_Manuscript1.pdf)
+- Graphical abstract: [2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg](2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg)
+- Supplementary File S1: [2.1-opensnp-80-phenotypes/supplementary/Supplementary_File_S1_Chapter2_Manuscript1.xlsx](2.1-opensnp-80-phenotypes/supplementary/Supplementary_File_S1_Chapter2_Manuscript1.xlsx)
 - Supplementary notes: [2.1-opensnp-80-phenotypes/supplementary/README.md](2.1-opensnp-80-phenotypes/supplementary/README.md)
 
 ### 2.2 Candidate Gene Prioritization

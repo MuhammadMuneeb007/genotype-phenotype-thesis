@@ -4,8 +4,8 @@ This directory contains supplementary files for Chapter 2.1, the openSNP 80 phen
 
 ## Included Files
 
-- `graphical-abstract.jpg`: graphical abstract for the manuscript.
-- `supplementary-material.xlsx`: supplementary material workbook for the manuscript.
+- `Graphical_Abstract_Chapter2_Manuscript1.jpg`: graphical abstract for Chapter 2 Manuscript 1.
+- `Supplementary_File_S1_Chapter2_Manuscript1.xlsx`: Supplementary File S1 workbook for Chapter 2 Manuscript 1.
 
 ## Folder Scope
 

@@ -15,19 +15,19 @@ This chapter contains thesis studies focused on benchmarking genotype-to-phenoty
 		<h3>README</h3>
 		<p>Benchmarking genotype-to-phenotype associations across 80 phenotypes in openSNP.</p>
 		<ul>
-			<li><strong>Manuscript:</strong> <a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">manuscript.pdf</a></li>
-			<li><strong>Graphical abstract:</strong> <a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg" target="_blank" rel="noopener">graphical-abstract.jpg</a></li>
-			<li><strong>Supplementary workbook:</strong> <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-02-benchmarking-genotype-to-phenotype%2F2.1-opensnp-80-phenotypes%2Fsupplementary%2Fsupplementary-material.xlsx" target="_blank" rel="noopener">supplementary-material.xlsx</a></li>
+			<li><strong>Manuscript:</strong> <a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/Manuscript_Chapter2_Manuscript1.pdf" target="_blank" rel="noopener">Manuscript_Chapter2_Manuscript1.pdf</a></li>
+			<li><strong>Graphical abstract:</strong> <a href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg" target="_blank" rel="noopener">Graphical_Abstract_Chapter2_Manuscript1.jpg</a></li>
+			<li><strong>Supplementary File S1:</strong> <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-02-benchmarking-genotype-to-phenotype%2F2.1-opensnp-80-phenotypes%2Fsupplementary%2FSupplementary_File_S1_Chapter2_Manuscript1.xlsx" target="_blank" rel="noopener">Supplementary_File_S1_Chapter2_Manuscript1.xlsx</a></li>
 		</ul>
 	</div>
 	<div class="action-row">
-		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">View Manuscript PDF</a>
-		<a class="btn" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg" target="_blank" rel="noopener">View Graphical Abstract</a>
+		<a class="btn btn-primary" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/Manuscript_Chapter2_Manuscript1.pdf" target="_blank" rel="noopener">View Manuscript PDF</a>
+		<a class="btn" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg" target="_blank" rel="noopener">View Graphical Abstract</a>
 		<a class="btn" href="{{ '/assets/downloads/2.1-opensnp-80-phenotypes-supplementary.zip' | relative_url }}" download>Download All Supplementary (ZIP)</a>
 		<a class="btn btn-ghost" href="{{ site.repository_url }}/tree/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes">Browse Files</a>
 	</div>
 	<figure class="figure-panel">
-		<img src="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg" alt="Graphical abstract for Chapter 2 manuscript 1 openSNP phenotype benchmarking">
+		<img src="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg" alt="Graphical abstract for Chapter 2 manuscript 1 openSNP phenotype benchmarking">
 		<figcaption>Graphical abstract for Chapter 2.1: openSNP 80 phenotypes.</figcaption>
 	</figure>
 	<table class="preview-table">
@@ -36,22 +36,22 @@ This chapter contains thesis studies focused on benchmarking genotype-to-phenoty
 		</thead>
 		<tbody>
 			<tr>
-				<td>manuscript.pdf</td>
+				<td>Manuscript_Chapter2_Manuscript1.pdf</td>
 				<td>Main manuscript for Chapter 2.1 openSNP 80 phenotype benchmarking.</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
-				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/Manuscript_Chapter2_Manuscript1.pdf" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/Manuscript_Chapter2_Manuscript1.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>graphical-abstract.jpg</td>
+				<td>Graphical_Abstract_Chapter2_Manuscript1.jpg</td>
 				<td>Graphical abstract for the Chapter 2.1 manuscript.</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg" target="_blank" rel="noopener">View online</a></td>
-				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/graphical-abstract.jpg" target="_blank" rel="noopener" download>Download</a></td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/Graphical_Abstract_Chapter2_Manuscript1.jpg" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>supplementary-material.xlsx</td>
-				<td>Supplementary material workbook for Chapter 2.1.</td>
-				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-02-benchmarking-genotype-to-phenotype%2F2.1-opensnp-80-phenotypes%2Fsupplementary%2Fsupplementary-material.xlsx" target="_blank" rel="noopener">View online</a></td>
-				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/supplementary-material.xlsx" target="_blank" rel="noopener" download>Download</a></td>
+				<td>Supplementary_File_S1_Chapter2_Manuscript1.xlsx</td>
+				<td>Supplementary File S1 workbook for Chapter 2 Manuscript 1.</td>
+				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-02-benchmarking-genotype-to-phenotype%2F2.1-opensnp-80-phenotypes%2Fsupplementary%2FSupplementary_File_S1_Chapter2_Manuscript1.xlsx" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary/Supplementary_File_S1_Chapter2_Manuscript1.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 		</tbody>
 	</table>
