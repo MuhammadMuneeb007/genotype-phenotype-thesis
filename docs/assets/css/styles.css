@@ -325,7 +325,8 @@ a:hover {
 }
 
 .figure-panel {
-  margin: 1rem 0;
+  width: min(100%, 820px);
+  margin: 1rem auto;
   overflow: hidden;
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -335,13 +336,17 @@ a:hover {
 .figure-panel img {
   display: block;
   width: 100%;
-  max-height: 520px;
+  height: clamp(220px, 34vw, 340px);
   object-fit: contain;
   background: #fff;
 }
 
+.manuscript-section .figure-panel {
+  width: min(100%, 760px);
+}
+
 .compact-figure img {
-  max-height: 340px;
+  height: clamp(200px, 28vw, 280px);
 }
 
 .figure-panel figcaption {
@@ -427,6 +432,11 @@ a:hover {
 
   .content-shell {
     padding: 1rem;
+  }
+
+  .figure-panel img,
+  .compact-figure img {
+    height: 220px;
   }
 
   .quick-stats {
