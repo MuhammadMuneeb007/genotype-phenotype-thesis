@@ -33,26 +33,26 @@ predictive metrics, and reproducibility criteria.
 		</thead>
 		<tbody>
 			<tr>
-				<td>manuscript.pdf</td>
-				<td>Placeholder manuscript PDF for this section.</td>
+				<td>Chapter 3.1 Manuscript (PDF)</td>
+				<td>Main manuscript for Chapter 3.1 PRS benchmarking.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>supplementary-material.pdf</td>
-				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
-				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
-			</tr>
-			<tr>
-				<td>supplementary-data.xlsx</td>
-				<td>Supplementary placeholder data table (XLSX).</td>
+				<td>Chapter 3.1 Supplementary Material - Data (XLSX)</td>
+				<td>Supplementary data workbook for Chapter 3.1.</td>
 				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-03-prs-and-heritability%2F3.1-prs-benchmarking-46-tools%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>online-view/README.md</td>
-				<td>Web summary placeholder for quick online review.</td>
+				<td>Chapter 3.1 Supplementary Material - Notes (README)</td>
+				<td>Supplementary folder notes for Chapter 3.1.</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/supplementary/README.md" target="_blank" rel="noopener" download>Download</a></td>
+			</tr>
+			<tr>
+				<td>Chapter 3.1 Online-View Notes (README)</td>
+				<td>Online-view notes for Chapter 3.1 materials.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.1-prs-benchmarking-46-tools/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
@@ -78,26 +78,26 @@ before PRS construction.
 		</thead>
 		<tbody>
 			<tr>
-				<td>manuscript.pdf</td>
-				<td>Placeholder manuscript PDF for this section.</td>
+				<td>Chapter 3.2 Manuscript (PDF)</td>
+				<td>Main manuscript for Chapter 3.2 GWASPoker.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>supplementary-material.pdf</td>
-				<td>Supplementary placeholder PDF document.</td>
+				<td>Chapter 3.2 Supplementary Material (PDF)</td>
+				<td>Supplementary material document for Chapter 3.2.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>supplementary-data.xlsx</td>
-				<td>Supplementary placeholder data table (XLSX).</td>
-				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-03-prs-and-heritability%2F3.2-gwaspoker%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
-				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
+				<td>Chapter 3.2 Supplementary Material - Notes (README)</td>
+				<td>Supplementary folder notes for Chapter 3.2.</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/supplementary/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>online-view/README.md</td>
-				<td>Web summary placeholder for quick online review.</td>
+				<td>Chapter 3.2 Online-View Notes (README)</td>
+				<td>Online-view notes for Chapter 3.2 materials.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.2-gwaspoker/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
@@ -123,26 +123,26 @@ on PRS performance and interpretability.
 		</thead>
 		<tbody>
 			<tr>
-				<td>manuscript.pdf</td>
-				<td>Placeholder manuscript PDF for this section.</td>
+				<td>Chapter 3.3 Manuscript (PDF)</td>
+				<td>Main manuscript for Chapter 3.3 heritability benchmarking.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/manuscript.pdf" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>supplementary-material.pdf</td>
-				<td>Supplementary placeholder PDF document.</td>
-				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-material.pdf" target="_blank" rel="noopener">View online</a></td>
-				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-material.pdf" target="_blank" rel="noopener" download>Download</a></td>
-			</tr>
-			<tr>
-				<td>supplementary-data.xlsx</td>
-				<td>Supplementary placeholder data table (XLSX).</td>
+				<td>Chapter 3.3 Supplementary Material - Data (XLSX)</td>
+				<td>Supplementary data workbook for Chapter 3.3.</td>
 				<td><a class="table-action" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMuhammadMuneeb007%2Fgenotype-phenotype-thesis%2Fmain%2Fchapters%2Fchapter-03-prs-and-heritability%2F3.3-heritability-benchmarking%2Fsupplementary%2Fsupplementary-data.xlsx" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/supplementary-data.xlsx" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>
 			<tr>
-				<td>online-view/README.md</td>
-				<td>Web summary placeholder for quick online review.</td>
+				<td>Chapter 3.3 Supplementary Material - Notes (README)</td>
+				<td>Supplementary folder notes for Chapter 3.3.</td>
+				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/README.md" target="_blank" rel="noopener">View online</a></td>
+				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/supplementary/README.md" target="_blank" rel="noopener" download>Download</a></td>
+			</tr>
+			<tr>
+				<td>Chapter 3.3 Online-View Notes (README)</td>
+				<td>Online-view notes for Chapter 3.3 materials.</td>
 				<td><a class="table-action" href="{{ site.repository_url }}/blob/main/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/README.md" target="_blank" rel="noopener">View online</a></td>
 				<td><a class="table-action table-action-download" href="{{ site.repository_raw_url }}/chapters/chapter-03-prs-and-heritability/3.3-heritability-benchmarking/online-view/README.md" target="_blank" rel="noopener" download>Download</a></td>
 			</tr>

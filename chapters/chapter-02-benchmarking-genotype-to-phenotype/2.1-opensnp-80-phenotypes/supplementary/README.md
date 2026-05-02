@@ -1,13 +1,12 @@
 # Supplementary Materials
 
-This directory contains temporary, viewable supplementary placeholders for this manuscript section.
+This directory contains supplementary files for Chapter 2.1, the openSNP 80 phenotypes manuscript.
 
-## Included Temporary Files
-- `supplementary-material.pdf`: placeholder supplementary document.
-- `supplementary-data.xlsx`: placeholder supplementary data table.
+## Included Files
+
+- `graphical-abstract.jpg`: graphical abstract for the manuscript.
+- `supplementary-material.xlsx`: supplementary material workbook for the manuscript.
 
 ## Folder Scope
-- Section path: `chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary`
 
-## Before Final Submission
-Replace both placeholder files with the final supplementary PDF and XLSX deliverables.
+- Section path: `chapters/chapter-02-benchmarking-genotype-to-phenotype/2.1-opensnp-80-phenotypes/supplementary`

@@ -2,6 +2,7 @@
 
 Comparative benchmarking of 46 PRS tools with harmonized evaluation criteria.
 
-- Manuscript PDF: [manuscript.pdf](manuscript.pdf)
-- Supplementary materials: [supplementary](supplementary/)
-- Online-view content: [online-view](online-view/)
+- Chapter 3.1 Manuscript (PDF): [manuscript.pdf](manuscript.pdf)
+- Chapter 3.1 Supplementary Material - Data (XLSX): [supplementary/supplementary-data.xlsx](supplementary/supplementary-data.xlsx)
+- Chapter 3.1 Supplementary Material - Notes (README): [supplementary/README.md](supplementary/README.md)
+- Chapter 3.1 Online-View Notes (README): [online-view/README.md](online-view/README.md)
