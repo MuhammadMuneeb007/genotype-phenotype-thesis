@@ -1,7 +1,5 @@
-﻿# 4.1 EFGPP
+# 4.1 EFGPP: Exploratory Framework for Genotype-Phenotype Prediction
 
-Framework methods and benchmarking for EFGPP.
+EFGPP: Exploratory framework for genotype-phenotype prediction.
 
 - Manuscript PDF: [manuscript.pdf](manuscript.pdf)
-- Supplementary materials: [supplementary](supplementary/)
-- Online-view content: [online-view](online-view/)
